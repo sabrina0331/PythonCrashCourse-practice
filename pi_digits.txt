@@ -1,0 +1,3 @@
+in Python you can loop through an array
+in Python you can loop through an dictionary
+in Python you can create everything
